@@ -19,7 +19,6 @@ You need a key.
 NEXT_PUBLIC_API_KEY=sk-xxxxxxxxxxxx
 
 Demo
-[https://chat-ai-six-ebon.vercel.app/](https://chat-ai-six-ebon.vercel.app)
 
 ![demo.png](public%2Fassets%2Fimages%2Fdemo.png)
 

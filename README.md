@@ -19,7 +19,7 @@ You need a key.
 NEXT_PUBLIC_API_KEY=sk-xxxxxxxxxxxx
 
 Demo
-
+[https://ai-ahura-chat-three.vercel.app/](https://ai-ahura-chat-three.vercel.app/)
 ![demo.png](public%2Fassets%2Fimages%2Fdemo.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
